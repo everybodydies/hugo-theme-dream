@@ -1,0 +1,57 @@
+[blogAlias]
+other = "Roboman's blog"
+
+[home]
+other = "Kezdőlap"
+
+[backToHome]
+other = "Vissza a kezdőlapra"
+
+[flip]
+other = "Flip it!"
+
+[archives]
+other = "Archívum"
+
+[allTags]
+other = "Minden címke"
+
+[tag]
+one = "tag"
+other = "{{ .Count }} címke"
+
+[allCategories]
+other = "Minden kategória"
+
+[category]
+one = "kategória"
+other = "{{ .Count }} kategória"
+
+[article]
+one = "1 bejegyzés"
+other = "{{ .Count }} bejegyzés"
+
+[socialLinks]
+other = "Social Links"
+
+[minuteRead]
+one = " perc olvasás"
+other = " perc olvasás"
+
+[updateAt]
+other = "Felülír"
+
+[noTag]
+other = "Nincs címke"
+
+[prevPage]
+other = "Előző oldal"
+
+[nextPage]
+other = "Következő oldal"
+
+[saveAsImage]
+other = "Mentés képként"
+
+[search]
+other = "Keresés"
