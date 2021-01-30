@@ -32,7 +32,7 @@ one = "1 bejegyzés"
 other = "{{ .Count }} bejegyzés"
 
 [socialLinks]
-other = "Social Links"
+other = "Közösségi oldal linkek"
 
 [minuteRead]
 one = " perc olvasás"
